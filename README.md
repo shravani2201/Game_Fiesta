@@ -1,5 +1,6 @@
 Game Fiesta is a captivating and immersive mini-games game.
 The game featuring 8 minigames is developed using SDL in C
+
  <img width="601" alt="Screenshot 2023-12-16 211817" src="https://github.com/shravani2201/Game_Fiesta/assets/119721385/44413096-fdf2-4f8f-977c-bd9d5d2f465c">
  
 1. Dashing Dino Dash
